@@ -1,0 +1,1 @@
+g++ -o main BankingSystemMain.cpp AccountHandler.h HighCreditAccount.h NormalAccount.h AccountException.h Account.h BoundCheckArray.h String.h BankingCommonDecl.h 
